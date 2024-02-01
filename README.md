@@ -1,5 +1,5 @@
 # About Me
-### Young and promising backend developer. I live for the first time, I want to see and learn as much as possible, because our planet is truly incredible! But code won't write itself, so let's take the time to improve our existence on this planet! :)
+### I live for the first time, I want to see and learn as much as possible, because our planet is truly incredible! But code won't write itself, so let's take the time to improve our existence on this planet! :)
 
 ## Language and Tools
 <p>
